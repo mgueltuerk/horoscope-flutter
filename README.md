@@ -1,4 +1,4 @@
-# burc rehberi
+# Burç Rehberi
 
 A new Flutter project.
 
